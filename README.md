@@ -25,7 +25,7 @@ Hola, soy **Alejandro**. Tengo un perfil integral en tecnología: construyo apli
 | **Desarrollo Software** | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vue,nodejs,express,django&theme=dark" alt="Desarrollo de software" /> |
 | **Bases de Datos** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Bases de datos" /> |
 | **Análisis de Datos** | <img src="https://skillicons.dev/icons?i=py,r&theme=dark" alt="Python y R" /> <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" /> |
-| **Ciberseguridad** | <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash&theme=dark" alt="Ciberseguridad" /> |
+| **Ciberseguridad** | <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,bash&theme=dark" alt="Ciberseguridad" /> |
 | **Sistemas e Infraestructura** | <img src="https://skillicons.dev/icons?i=windows,powershell,nginx,docker&theme=dark" alt="Sistemas e infraestructura" /> <img src="https://img.shields.io/badge/-Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" /> |
 | **Herramientas** | <img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,postman,md&theme=dark" alt="Herramientas" /> |
 
