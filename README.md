@@ -32,5 +32,3 @@ Hola, soy **Alejandro**. Tengo un perfil integral en tecnología: construyo apli
 ---
 
 📫 [LinkedIn](https://www.linkedin.com/in/TU-USUARIO) · **Correo**: **alejowosorio2986@gmail.com**
-
-aa
